@@ -4,3 +4,5 @@ Test GIT
 20-08-18 point
 20-09-14 t2
 
+25-09-13 Stepik - С нуля до Junior Manual QA инженера
+
