@@ -5,3 +5,4 @@ Test GIT
 20-09-14 t2
 
 25-09-16 Stepik - С нуля до Junior Manual QA инженера
+"Привет мир!"
